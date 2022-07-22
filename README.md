@@ -1,10 +1,10 @@
 ### Hi there, I'm <a href="https://muhammadislom.ru/" target="_blank">Muhammadislom</a> 👋
 <!---Для подробной версии-->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammadislom&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammadislom&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammadislom&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammadislom&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammadislom&theme=solarized_dark)
 
 
 <!--
