@@ -1,6 +1,6 @@
 ### Hi there, I'm <a href="https://muhammadislom.ru/" target="_blank">Muhammadislom</a> 👋
-# Hi there, I'm [Daniil](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-### Computer science student, IT news writer from Russia 🇷🇺
+<!---Для подробной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Muhammadislom/Muhammadislom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
