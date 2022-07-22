@@ -5,7 +5,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammadislom&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammadislom&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammadislom&theme=solarized_dark)
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Muhammadislom)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Muhammadislom&theme=react-dark	)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
