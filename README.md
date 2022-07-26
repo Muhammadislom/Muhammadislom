@@ -1,6 +1,5 @@
 ### Hi there, I'm <a href="https://muhammadislom.ru/" target="_blank">Muhammadislom</a> 👋
 <!---Для подробной версии-->
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Muhammadislom&theme=react-dark	)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammadislom&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammadislom&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammadislom&theme=solarized_dark)
