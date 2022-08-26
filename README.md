@@ -7,8 +7,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammadislom&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammadislom&theme=solarized_dark)
 
-[![Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammadislom&count_private=true&show_icons=true&theme=dark)](https://github.com/oooiik/github-readme-stats)
-
 <br />
 
 ### Tools and Programs:
@@ -18,8 +16,6 @@
 [<img align="left" alt="PhpStorm" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/phpstorm.png" />][phpstorm]
 [<img align="left" alt="Sublime" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/sublimetext.png" />][sublime]
 [<img align="left" alt="PostMan" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/postman.png" />][postman]
-
-<br />
 
 ### Technologies I am familiar with:
 [<img align="left" alt="Php" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/php.jpg" />][php]
