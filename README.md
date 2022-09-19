@@ -1,13 +1,11 @@
 # Hi there, I'm Muhammadislom <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
 <br />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammadislom&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammadislom&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammadislom&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammadislom&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammadislom&theme=solarized_dark)
-
-<br />
+[comment]: < ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammadislom&theme=solarized_dark) >
+[comment]: < ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammadislom&theme=solarized_dark) >
+[comment]: < ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammadislom&theme=solarized_dark) >
+[comment]: < ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammadislom&theme=solarized_dark) >
+[comment]: < ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammadislom&theme=solarized_dark) >
 
 ### Tools and Programs:
 [<img align="left" alt="Linux" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/linux.gif" />][linux]
