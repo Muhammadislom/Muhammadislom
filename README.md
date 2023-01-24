@@ -1,4 +1,19 @@
 # Hi there, I'm Muhammadislom <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
+
+<br />
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammadislom&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammadislom&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammadislom&theme=solarized_dark)
+<br />
+[![Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammadislom&count_private=true&show_icons=true&theme=dracula)](https://github.com/siberfx/github-readme-stats)
+<br />
+
+[comment]: <![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammadislom&theme=solarized_dark)>
+[comment]: <![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammadislom&theme=solarized_dark)>
+
+<br />
+
 ### Tools and Programs:
 [<img align="left" alt="Linux" width="40px" src="https://github.com/siberfx/siberfx/raw/main/icons/linux.gif" />][linux]
 [<img align="left" alt="Linux Ubuntu" width="40px" src="https://github.com/siberfx/siberfx/raw/main/icons/ubuntu.jpg" />][ubuntu]
@@ -23,19 +38,6 @@
 [<img align="left" alt="Vue" width="40px" src="https://github.com/siberfx/siberfx/raw/main/icons/vue.png" />][vue]
 
 <br />
-<br />
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammadislom&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammadislom&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammadislom&theme=solarized_dark)
-<br />
-[![Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammadislom&count_private=true&show_icons=true&theme=dracula)](https://github.com/siberfx/github-readme-stats)
-<br />
-
-[comment]: <![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammadislom&theme=solarized_dark)>
-[comment]: <![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammadislom&theme=solarized_dark)>
-
-
 
 ### Connect with me:
 
