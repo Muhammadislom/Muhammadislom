@@ -3,7 +3,7 @@
 [<img align="left" alt="Linux" width="40px" src="https://github.com/siberfx/siberfx/raw/main/icons/linux.gif" />][linux]
 [<img align="left" alt="Linux Ubuntu" width="40px" src="https://github.com/siberfx/siberfx/raw/main/icons/ubuntu.jpg" />][ubuntu]
 [<img align="left" alt="Docker" width="40px" src="https://github.com/siberfx/siberfx/raw/main/icons/docker.png" />][docker]
-[<img align="left" alt="PhpStorm" width="40px" src="https://github.com/siberfx/siberfx/raw/main/icons/phpstorm.png" />][phpstorm]
+[<img align="left" alt="PhpStorm" width="40px" src="[https://github.com/siberfx/siberfx/raw/main/icons/phpstorm.png](https://ru.wikipedia.org/wiki/WebStorm#/media/%D0%A4%D0%B0%D0%B9%D0%BB:WebStorm_Icon.svg)" />][phpstorm]
 [<img align="left" alt="WebStorm" width="40px" src="https://github.com/siberfx/siberfx/raw/main/icons/webstorm.png" />][webstorm]
 [<img align="left" alt="Sublime" width="40px" src="https://github.com/siberfx/siberfx/raw/main/icons/sublimetext.png" />][sublime]
 [<img align="left" alt="PostMan" width="40px" src="https://github.com/siberfx/siberfx/raw/main/icons/postman.png" />][postman]
@@ -23,7 +23,6 @@
 [<img align="left" alt="Vue" width="40px" src="https://github.com/siberfx/siberfx/raw/main/icons/vue.png" />][vue]
 
 <br />
-
 <br />
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammadislom&theme=solarized_dark)
