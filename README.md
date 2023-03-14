@@ -15,28 +15,11 @@
 <br />
 
 ### Tools and Programs:
-[<img align="left" alt="Linux" width="40px" src="https://github.com/siberfx/siberfx/raw/main/icons/linux.gif" />][linux]
-[<img align="left" alt="Linux Ubuntu" width="40px" src="https://github.com/siberfx/siberfx/raw/main/icons/ubuntu.jpg" />][ubuntu]
-[<img align="left" alt="Docker" width="40px" src="https://github.com/siberfx/siberfx/raw/main/icons/docker.png" />][docker]
-[<img align="left" alt="PhpStorm" width="40px" src="https://github.com/siberfx/siberfx/raw/main/icons/phpstorm.png" />][phpstorm]
-[<img align="left" alt="WebStorm" width="40px" src="https://github.com/siberfx/siberfx/raw/main/icons/webstorm.png" />][webstorm]
-[<img align="left" alt="Sublime" width="40px" src="https://github.com/siberfx/siberfx/raw/main/icons/sublimetext.png" />][sublime]
-[<img align="left" alt="PostMan" width="40px" src="https://github.com/siberfx/siberfx/raw/main/icons/postman.png" />][postman]
-<br />
-### Technologies I am familiar with:
-[<img align="left" alt="Php" width="40px" src="https://github.com/siberfx/siberfx/raw/main/icons/php.jpg" />][php]
-[<img align="left" alt="Laravel" width="40px" src="https://github.com/siberfx/siberfx/raw/main/icons/laravel.png" />][laravel]
-[<img align="left" alt="Linux Terminal" width="40px" src="https://cdn-icons-png.flaticon.com/512/5064/5064876.png" />][shell]
-[<img align="left" alt="Linux Shell" width="40px" src="https://github.com/siberfx/siberfx/raw/main/icons/terminal.png" />][shell]
-[<img align="left" alt="MySQL" width="40px" src="https://github.com/siberfx/siberfx/raw/main/icons/mysql.png" />][mysql]
-[<img align="left" alt="Redis" width="40px" src="https://github.com/siberfx/siberfx/raw/main/icons/redis.png" />][redis]
-[<img align="left" alt="Vue" width="40px" src="https://github.com/siberfx/siberfx/raw/main/icons/apache.png" />][apache]
-[<img align="left" alt="Vue" width="40px" src="https://pics.freeicons.io/uploads/icons/png/2377737431551941711-512.png" />][nginx]
-[<img align="left" alt="Docker" width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919840.png" />][composer]
-[<img align="left" alt="Npm" width="40px" src="https://github.com/siberfx/siberfx/raw/main/icons/npm.png" />][npm]
-[<img align="left" alt="Vue" width="40px" src="https://cdn-icons-png.flaticon.com/512/59/59137.png" />][wordpress]
-[<img align="left" alt="Vue" width="40px" src="https://github.com/siberfx/siberfx/raw/main/icons/vue.png" />][vue]
+  <p align="left">
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,sass,git,github,gitlab,tailwind,php,laravel,wordpress,mysql,postgresql,vue,vscode,visualstudio,idea,figma,postman,graphql,maven,nginx,linux,redis,docker)](https://skillicons.dev)
+
+  </p>
 <br />
 
 ### Connect with me:
