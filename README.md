@@ -11,7 +11,7 @@
 ### Tools and Programs:
   <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,sass,git,github,gitlab,tailwind,php,laravel,wordpress,mysql,postgresql,vue,vscode,visualstudio,idea,figma,postman,graphql,maven,nginx,linux,redis,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,sass,git,github,gitlab,tailwind,php,laravel,wordpress,mysql,postgresql,vue,vscode,visualstudio,idea,figma,postman,graphql,maven,nginx,linux,redis,docker,flutter)](https://skillicons.dev)
 
   </p>
 <br />
