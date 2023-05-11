@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=&color=FFF&center=true&vCenter=true&width=435&lines=Hello,+There+👋;This+is+Muhammadislom!)](https://git.io/typing-svg)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Muhammadislom)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Muhammadislom) -->
 
 [![Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammadislom&count_private=true&show_icons=true&theme=dracula)](https://github.com/siberfx/github-readme-stats)
 
