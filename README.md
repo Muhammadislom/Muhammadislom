@@ -3,11 +3,6 @@
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Muhammadislom) -->
 
-[![Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammadislom&count_private=true&show_icons=true&theme=dracula)](https://github.com/siberfx/github-readme-stats)
-
-[comment]: <![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammadislom&theme=solarized_dark)>
-[comment]: <![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammadislom&theme=solarized_dark)>
-
 ### Tools and Programs:
   <p align="left">
 
@@ -15,6 +10,16 @@
 
   </p>
 <br />
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+[![Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammadislom&count_private=true&show_icons=true&theme=dracula)](https://github.com/siberfx/github-readme-stats)
+
+[comment]: <![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammadislom&theme=solarized_dark)>
+[comment]: <![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammadislom&theme=solarized_dark)>
+
+</details>
 
 ### Connect with me:
 
