@@ -1,7 +1,7 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=&color=FFF&center=true&vCenter=true&width=435&lines=Hello,+There+👋;This+is+Muhammadislom!)](https://git.io/typing-svg)
+<!--- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=&color=FFF&center=true&vCenter=true&width=435&lines=Hello,+There+👋;This+is+Muhammadislom!)](https://git.io/typing-svg)
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Muhammadislom) -->
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=Muhammadislom) -->
 
 ### Tools and Programs:
   <p align="left">
