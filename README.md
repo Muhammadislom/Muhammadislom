@@ -1,73 +1,40 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Muhammadislom's Code Universe" width="100%" />
+</p>
 
-<!--- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=&color=FFF&center=true&vCenter=true&width=435&lines=Hello,+There+👋;This+is+Muhammadislom!)](https://git.io/typing-svg)
+# Muhammadislom  
+**Code Crafter | Tech Enthusiast | Dream Builder**
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Muhammadislom) -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3500&pause=1000&color=FFB6C1&center=true&vCenter=true&width=450&lines=Hey,+I'm+Muhammadislom!+👋;Turning+Ideas+Into+Code+Magic" alt="Typing SVG" />
+  </a>
+  <br />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Muhammadislom" alt="Visitors" />
+</p>
 
-### Tools and Programs:
-  <p align="left">
+---
 
-[![My Skills](https://skillicons.dev/icons?i=js,jquery,sass,git,github,gitlab,tailwind,php,laravel,wordpress,mysql,postgresql,vue,vite,vscode,visualstudio,idea,figma,postman,graphql,maven,nginx,linux,redis,docker,jenkins,kubernetes,rabbitmq)](https://muhammadislom.ru)
+## 🌟 Who Am I?  
+I’m Muhammadislom—a passionate developer with a love for crafting elegant, high-performance solutions. Whether it’s building sleek frontends or diving into complex backend systems, I thrive on turning visions into reality with a sprinkle of creativity.
 
-  </p>
-<br />
+- 🔭 **Currently exploring**: [TMS and WMS systems]  
+- 🌱 **Leveling up in**: [e.g., Laravel, Vue, Docker]  
+- ⚡ **Fun tidbit**: I once fixed a bug while sleep-deprived—and it worked )
 
+---
+
+## 🛠️ My Tech Arsenal  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,jquery,sass,git,github,gitlab,tailwind,php,laravel,wordpress,mysql,postgresql,vue,vite,vscode,visualstudio,idea,figma,postman,graphql,maven,nginx,linux,redis,docker,jenkins,kubernetes,rabbitmq&perline=12" alt="Tech Stack" />
+</p>
+
+---
+
+## 📈 GitHub Highlights  
 <details>
-  <summary>Github Stats ⚡</summary>
-  
-[![Selim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muhammadislom&count_private=true&show_icons=true&theme=dracula)](https://github.com/siberfx/github-readme-stats)
-
-[comment]: <![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammadislom&theme=solarized_dark)>
-[comment]: <![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammadislom&theme=solarized_dark)>
-
+  <summary>Peek at My Stats ✨</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Muhammadislom&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  </p>
 </details>
-
-### Connect with me:
-
-[<img align="left" alt="siberfx | E-mail" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/envelope.gif" />][email]
-[<img align="left" alt="siberfx | Telegram" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/telegram.gif" />][telegram]
-[<img align="left" alt="siberfx | Instagram" width="30px" src="https://github.com/siberfx/siberfx/raw/main/icons/instagram.gif" />][instagram]
-
-<br />
-
-[email]: mailto:islom.pr@gmail.com
-[telegram]: https://t.me/Eshonqulov_Muhammadislom
-[instagram]: https://www.instagram.com/muhammadislom_eshonqulov/
-
-<br />
-© 2023 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-
-<!--- ### Hi there, I'm <a href="https://muhammadislom.ru/" target="_blank">Muhammadislom</a> 👋
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammadislom&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammadislom&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammadislom&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammadislom&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammadislom&theme=solarized_dark)
-
-
-
-
-**Muhammadislom/Muhammadislom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
