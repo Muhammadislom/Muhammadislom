@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Muhammadislom's Code Universe" width="100%" />
-</p>
-
 # Muhammadislom  
 **Code Crafter | Tech Enthusiast | Dream Builder**
 
